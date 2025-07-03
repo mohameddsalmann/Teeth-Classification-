@@ -9,6 +9,9 @@ This repository contains a dental image classification application built with Te
 - **Output Format**: The model is saved as `teeth_classification_model.pkl`, including the model and class names.
 - **Interface**: A Streamlit web app for uploading and classifying single or multiple dental images.
 
+## 🖼️ **Banner**
+![Translation Platform Banner](12.jpg)
+
 ## Prerequisites
 
 - **Python 3.9+**
